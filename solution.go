@@ -1,5 +1,5 @@
 package solution
-
+import "http://github.com/kyokomi/emoji"
 func GetMessage() string {
-	return ""
+	return "Hello World!"
 }
